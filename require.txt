@@ -1,0 +1,1 @@
+express mongoose ejs dotenv passport-google-oauth20 passport express-session connect-flash bcrypt passport-local
